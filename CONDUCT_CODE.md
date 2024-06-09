@@ -53,7 +53,7 @@ clarified by project administrators.
 ## Application
 
 Abusive, harassing, or other types of behavior may be
-statement contacting the project team antonionovaesjr@gmail.com.
+statement contacting the project team terraformmagalucloud@gmail.com.
 All complaints will be reviewed and investigated and
 will result in a necessary and appropriate response to the situation.
 The team is obliged to maintain confidentiality regarding
