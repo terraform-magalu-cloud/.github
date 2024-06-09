@@ -1,3 +1,5 @@
+<img title="a title" alt="Logo da magalu cloud" src="../img/magalu.png" width="100" height="100">  <img title="a title" alt="Logo do terraform" src="..img/terraform.png" width="100" height="100">
+
 # Sumary
 
 This organization was created to organize and contain terraform modules for Magalu Cloud.
