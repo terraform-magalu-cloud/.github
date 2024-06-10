@@ -6,3 +6,4 @@ This organization was created to organize and contain terraform modules for Maga
 <br>
 If you want help with this project, read our [code of conduct](https://github.com/terraform-magalu-cloud/.github/blob/main/CONDUCT_CODE.md) and the [repository on setup and code standards](https://github.com/terraform-magalu-cloud/how-can-help).
 
+This project is inspired by terraform-aws-modules and seeks to use the best IaaS development techniques and tools and best practices.
